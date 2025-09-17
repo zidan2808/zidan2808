@@ -1,4 +1,4 @@
-<h2 align="center">Hello!👋 My name is Darmawan Jiddan and I'm a Machine Learning Engineer, from Indonesia</h2>
+<h2 align="center">Hello!👋 My name is Darmawan Jiddan and I'm a Machine Learning Engineer</h2>
 
 ###
 
